@@ -20,7 +20,7 @@ I am an Electrical Engineering undergraduate from the Federal University of Camp
 * Machine Learning & AI 
 <br>
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
 ### Languages & Technologies
 <p align="left">
@@ -47,22 +47,22 @@ I am an Electrical Engineering undergraduate from the Federal University of Camp
 ## 📊 My GitHub Activity
 
 <p align="center">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Elmer's GitHub Stats" />
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" alt="Elmer's Top Languages" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=elmerfariass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Elmer's GitHub Stats" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmerfariass&layout=compact&theme=tokyonight" alt="Elmer's Top Languages" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" alt="Elmer's Contribution Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmerfariass&theme=tokyonight" alt="Elmer's Contribution Streak" />
 </p>
 
 <br>
 
-## 📬 Get In Touch
+## Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE/" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/elmerfarias /" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:YOUR.EMAIL@gmail.com">
+  <a href="mailto:elmerpf@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
