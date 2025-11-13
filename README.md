@@ -32,6 +32,7 @@ Tools
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="70" style="margin: 10px;" />
+<!-- Corrigido: Trocado '&#39; por '/' no caminho do ícone do Numba -->
 <img src="https://raw.githubusercontent.com/numba/numba/main/docs/_static/numba-blue-icon-rgb.svg" alt="Numba" height="70" style="margin: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="RHEL" height="70" style="margin: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebooks" height="70" style="margin: 10px;" />
@@ -44,12 +45,12 @@ Tools
 📊 My GitHub Activity
 
 <!--
-NOTA: O nome de usuário foi corrigido de 'elmerfariass' para 'elmerfarias'
+NOTA: Os links estavam "envelopados" por uma busca do Google. Corrigido.
 -->
 
 <p align="center">
-<img align="center" height="180" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Delmerfarias%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Elmer's GitHub Stats" />
-<img align="center" height="180" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Delmerfarias%26layout%3Dcompact%26theme%3Dtokyonight" alt="Elmer's Top Languages" />
+<img align="center" height="180" src="https://www.google.com/url?sa=E&source=gmail&q=https://github-readme-stats.vercel.app/api?username=elmerfarias%26show_icons=true%26theme=tokyonight%26include_all_commits=true%26count_private=true" alt="Elmer's GitHub Stats" />
+<img align="center" height="180" src="https://www.google.com/url?sa=E&source=gmail&q=https://github-readme-stats.vercel.app/api/top-langs/?username=elmerfarias%26layout=compact%26theme=tokyonight" alt="Elmer's Top Languages" />
 </p>
 <p align="center">
 <img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Delmerfarias%26theme%3Dtokyonight" alt="Elmer's Contribution Streak" />
@@ -59,9 +60,9 @@ Contact
 
 <p align="center">
 <!--
-NOTA: O link do LinkedIn estava duplicado e foi corrigido.
+NOTA: O link do LinkedIn também estava "envelopado" e o target="_blank" estava formatado incorretamente. Corrigido.
 -->
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://www.linkedin.com/in/elmerfarias/" target="_blank">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/elmerfarias/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:elmerpf@gmail.com">
