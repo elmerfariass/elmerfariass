@@ -1,5 +1,28 @@
-## 💻 My Languages & Technologies
+<h1 align="center">
+  Hi, I'm Elmer Pimentel Farias 
+</h1>
+<h3 align="center">
+  Electrical Engineering student at UFCG 
+</h3>
 
+<br>
+
+##  About Me
+
+I am an Electrical Engineering undergraduate from the Federal University of Campina Grande (UFCG) specializing in **Digital Signal Processing (DSP)** and **Microelectronics**.
+
+<br>
+
+##  Key Interests
+
+* Digital Signal Processing (DSP)
+* ASIC, FPGA & VLSI Design
+* Machine Learning & AI 
+<br>
+
+## 🛠️ My Tech Stack
+
+### Languages & Technologies
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="60" style="margin: 10px;" />
@@ -7,10 +30,7 @@
   <img src="https://raw.githubusercontent.com/JWchester/Icons/main/System%20Verilog.png" alt="System Verilog" height="60" style="margin: 10px;" />
 </p>
 
-<br>
-
-## 🛠️ My Tools
-
+### Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="70" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/numba/numba/main/docs/_static/numba-blue-icon-rgb.svg" alt="Numba" height="70" style="margin: 10px;" />
@@ -20,4 +40,29 @@
   <img src="https://raw.githubusercontent.com/JWchester/Icons/main/Google%20Colab.png" alt="Google Colab" height="70" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/JWchester/Icons/main/Quartus%20Prime.png" alt="Quartus Prime" height="70" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/JWchester/Icons/main/GitT.png" alt="Git" height="70" style="margin: 10px;" />
+</p>
+
+<br>
+
+## 📊 My GitHub Activity
+
+<p align="center">
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Elmer's GitHub Stats" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" alt="Elmer's Top Languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" alt="Elmer's Contribution Streak" />
+</p>
+
+<br>
+
+## 📬 Get In Touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:YOUR.EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
