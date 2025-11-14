@@ -1,25 +1,25 @@
 <h1 align="center">
-Hi, I'm Elmer Pimentel Farias
+Hi, I'm Elmer Farias
 </h1>
 <h3 align="center">
-Electrical Engineering student at UFCG
+Electrical Engineering student at UFCG 
 </h3>
 
-About Me
+About Me:
 
 I am an Electrical Engineering undergraduate from the Federal University of Campina Grande (UFCG) specializing in Digital Signal Processing (DSP) and Microelectronics.
 
-Key Interests
+Key Interests:
 
-Digital Signal Processing (DSP)
+- Digital Signal Processing (DSP)
 
-ASIC, FPGA & VLSI Design
+- ASIC, FPGA & VLSI Design
 
-Machine Learning & AI
+- Machine Learning & AI
 
 My Tech Stack
 
-Languages & Technologies
+Languages & Technologies:
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="60" style="margin: 10px;" />
@@ -28,11 +28,10 @@ Languages & Technologies
 <img src="https://raw.githubusercontent.com/JWchester/Icons/main/System%20Verilog.png" alt="System Verilog" height="60" style="margin: 10px;" />
 </p>
 
-Tools
+Tools:
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="70" style="margin: 10px;" />
-<!-- Corrigido: Trocado '&#39; por '/' no caminho do ícone do Numba -->
 <img src="https://raw.githubusercontent.com/numba/numba/main/docs/_static/numba-blue-icon-rgb.svg" alt="Numba" height="70" style="margin: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="RHEL" height="70" style="margin: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebooks" height="70" style="margin: 10px;" />
@@ -42,26 +41,20 @@ Tools
 <img src="https://raw.githubusercontent.com/JWchester/Icons/main/GitT.png" alt="Git" height="70" style="margin: 10px;" />
 </p>
 
-📊 My GitHub Activity
-
-<!--
-NOTA: Os links estavam "envelopados" por uma busca do Google. Corrigido.
--->
+📊 My GitHub Activity:
 
 <p align="center">
-<img align="center" height="180" src="https://www.google.com/url?sa=E&source=gmail&q=https://github-readme-stats.vercel.app/api?username=elmerfarias%26show_icons=true%26theme=tokyonight%26include_all_commits=true%26count_private=true" alt="Elmer's GitHub Stats" />
-<img align="center" height="180" src="https://www.google.com/url?sa=E&source=gmail&q=https://github-readme-stats.vercel.app/api/top-langs/?username=elmerfarias%26layout=compact%26theme=tokyonight" alt="Elmer's Top Languages" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=elmerfariass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Elmer's GitHub Stats" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmerfariass&layout=compact&theme=tokyonight" alt="Elmer's Top Languages" />
 </p>
 <p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Delmerfarias%26theme%3Dtokyonight" alt="Elmer's Contribution Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmerfariass&theme=tokyonight" alt="Elmer's Contribution Streak" />
 </p>
 
-Contact
+<br>
+Contact:
 
 <p align="center">
-<!--
-NOTA: O link do LinkedIn também estava "envelopado" e o target="_blank" estava formatado incorretamente. Corrigido.
--->
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/elmerfarias/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
