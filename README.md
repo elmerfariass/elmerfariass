@@ -5,6 +5,8 @@ Hi, I'm Elmer Farias
 Electrical Engineering student at UFCG 
 </h3>
 
+📫 How to reach me elmerpf@gmail.com
+
 About Me:
 
 I am an Electrical Engineering undergraduate from the Federal University of Campina Grande (UFCG) specializing in Digital Signal Processing (DSP) and Microelectronics.
